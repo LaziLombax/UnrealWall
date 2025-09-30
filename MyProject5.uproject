@@ -26,6 +26,10 @@
 		{
 			"Name": "AndroidMoviePlayer",
 			"Enabled": false
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
